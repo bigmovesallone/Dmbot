@@ -1,1 +1,3 @@
 # Dmbot
+
+Initialising 
